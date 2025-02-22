@@ -5,5 +5,5 @@ Edit the values in:
 
 depending on what basis your trying to measure
 
-But in our data the maximum **min_support** is 0.01 anything more would yield nothing
+But in our data the maximum **min_support** is 0.01 anything more would yield nothing.
 In contrast you could play around with **min_threshold (confidence)**
